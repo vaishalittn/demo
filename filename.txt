@@ -1,1 +1,7 @@
-adding a line
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+=======
+>>>>>>> Stashed changes
+adding a line editing
+>>>>>>> Stashed changes
